@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Massachusetts Bike Action Network
 
-You can use the [editor on GitHub](https://github.com/MABikeActNet/MABikeActNetwebsite/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+MABikeActNet is a grass-roots organization aimed at informing Massachusetts cyclists of issues and public processes that affect them - in particular, local and state regulatory, legislative, public works, and policy hearings and other activities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We:
 
-### Markdown
+- Collect information by way of messages on social media from people like you (we will be monitoring Twitter and Facebook), or submissions to our tracking database (TBD)
+- Make announcements via social media (Twitter and Facebook; Instagram to come) and an announcements email list.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### How to use our services
 
-# Header 1
-## Header 2
-### Header 3
+- Follow us on social media via [our Twitter account](https://twitter.com/MABikeActNet) and [our Facebook page](https://www.facebook.com/MABikeActNet/).
+- Join our [announcements email list](https://groups.google.com/forum/#!forum/mabikeactnet), where we will send messages such as a summary of recent and upcoming activity. If you join, please periodically check your spam/promotions folders and make sure our messages are not being mis-categorized.
 
-- Bulleted
-- List
+### How you can help
 
-1. Numbered
-2. List
+_This list is preliminary. Please check back for updates._
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MABikeActNet/MABikeActNetwebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Mention us to other cyclists, and encourage them to follow us / subscribe. Share our posts within relevant communities and to appropriate audiences on social media.
+- Regularly check your town/city meeting agendas and announcements. Tools like [VisualPing](https://visualping.io/) can help by notifying you when an agency updates a page containing announcements, agendas, or project information. See something bicycle related? Collect as much relevant information as possible and then let us know.
+- Volunteer your talents and services. We need for HTML coders, graphic artists/designers, programmers, and social media editors.
+- Help maintain lists of resources for others, such as hearing announcement pages, agency point-of-contacts, and more.
