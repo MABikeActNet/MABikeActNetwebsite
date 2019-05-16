@@ -1,6 +1,6 @@
 ## Massachusetts Bike Action Network
 
-MABikeActNet is a grass-roots organization aimed at informing Massachusetts cyclists of issues and public processes that affect them - in particular, local and state regulatory, legislative, public works, and policy hearings and other activities.
+MABikeActNet is a grass-roots organization aimed at alerting to and informing Massachusetts cyclists of issues and public processes that threaten the right to free and safe travel by bicycle - in particular, local and state regulatory, legislative, public works, and policy hearings. We aim to be a clearinghouse of anti-bicycle activities or statements by public employees, officials, elected representatives, agencies, lobbyists, law enforcement, or members of the judiciary.
 
 We:
 
@@ -20,4 +20,4 @@ _This list is preliminary. Please check back for updates._
 - Mention us to other cyclists, and encourage them to follow us / subscribe. Share our posts within relevant communities and to appropriate audiences on social media.
 - Regularly check your town/city meeting agendas and announcements. Tools like [VisualPing](https://visualping.io/) can help by notifying you when an agency updates a page containing announcements, agendas, or project information. Some agencies offer automated email notification lists; other departments, committees, and agencies will add you to an email distribution list if you inquire. See something bicycle related? Collect as much relevant information as possible, and then let us know.
 - Volunteer your talents and services. We need for HTML coders, graphic artists/designers, programmers, and social media editors.
-- Help maintain lists of resources for others, such as hearing announcement pages, agency point-of-contacts, and more.
+- Help us maintain resources for others, such as lists of hearing announcement pages, agency point-of-contacts, quick references of talking points / responses to common anti-cycling arguments, and more.
