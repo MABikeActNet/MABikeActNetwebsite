@@ -15,9 +15,9 @@ We:
 
 ### How you can help
 
-_This list is preliminary. Please check back for updates._
+_This list is preliminary. Please check back for updates!_
 
-- Mention us to other cyclists, and encourage them to follow us / subscribe. Share our posts within relevant communities and to appropriate audiences on social media.
-- Help us search for matters of concern; regularly check your town/city meeting agendas/announcements, read meeting minutes. Tools like [VisualPing](https://visualping.io/) can help by notifying you when an agency updates a page containing announcements, agendas, or project information. Some agencies offer automated email notification lists; other departments, committees, and agencies will add you to an email distribution list if you inquire. See something bicycle related? Collect as much relevant information as possible, and then let us know.
+- Get the word out; mention us to other cyclists, and encourage them to follow us / subscribe. Share our posts within relevant communities and to appropriate audiences on social media.
+- Help us search/monitor; search social media, regularly check your town/city meeting agendas/announcements, read meeting minutes. Tools like [VisualPing](https://visualping.io/) can help by notifying you when an agency updates a page containing announcements, agendas, or project information. Some agencies offer automated email notification lists; other departments, committees, and agencies will add you to an email distribution list if you inquire. See something bicycle related? Collect as much relevant information as possible, and then let us know.
 - Let us know if you have talents and services we could potentially use. We will in particular need HTML coders, graphic artists/designers, programmers, and social media editors.
-- Help us maintain resources for others, such as lists of hearing announcement pages, agency point-of-contacts, quick references of talking points / responses to common anti-cycling arguments, and more.
+- Help us maintain resources such as lists of hearing announcement pages, agency point-of-contacts, quick references of talking points / responses to common anti-cycling arguments, and more.
